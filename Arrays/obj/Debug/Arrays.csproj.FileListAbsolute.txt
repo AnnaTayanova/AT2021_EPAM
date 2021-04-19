@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\EPAM LEARN\AT2021\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\ASUS\Desktop\EPAM LEARN\AT2021\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\EPAM LEARN\AT2021\Arrays\bin\Debug\Arrays.exe
+C:\Users\ASUS\Desktop\EPAM LEARN\AT2021\Arrays\bin\Debug\Arrays.pdb
+C:\Users\ASUS\Desktop\EPAM LEARN\AT2021\Arrays\obj\Debug\Arrays.exe
+C:\Users\ASUS\Desktop\EPAM LEARN\AT2021\Arrays\obj\Debug\Arrays.pdb
